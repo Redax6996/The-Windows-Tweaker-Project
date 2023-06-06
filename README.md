@@ -7,6 +7,6 @@ There are a bunch of other toolboxes, applications, programs and whatnot, for th
 
 You also have the option to undo any changes you made, either via the system restore point and registry backups this project automatically creates(if you are not satisfied with any of the optimizations), or manually by running some programs.
 
-Descriptions of every single program are provided in .txt files, in appropriate locations throughout.
+Descriptions of every single program are provided in .txt files, in appropriate locations throughout. The main programs of this project are available in the _main_ branch.
 
 Thank you for reading this. Have a wonderful day!
