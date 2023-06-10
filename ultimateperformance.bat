@@ -10,5 +10,5 @@ echo The Ultimate Performance power plan has been enabled.
 echo Note: Your PC will now consume more electricity than before, in order to improve performance. If you do not want that, you can undo this tweak later.
 echo Moving on...please do not exit this window.
 
-timeout 15 > nul
+timeout 14 > nul
 start "Final optimization 1" finalOpti1.bat
