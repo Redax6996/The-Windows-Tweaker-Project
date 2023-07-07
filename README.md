@@ -29,3 +29,6 @@ Here's a simple description of all optimizations, to improve your performance, p
 
 
 Thank you for reading this. Have a wonderful day! 
+
+![Screenshot 2023-07-07 153642](https://github.com/Redax6996/The-Windows-Tweaker-Project/assets/135540225/cf9e1b55-722f-4342-b44e-f3ca60a556c4)
+
