@@ -10,12 +10,19 @@ You also have the option to undo any changes you made, either via the system res
 Here's a simple description of all optimizations, to improve your performance, present here:
 
 **Disables Animations**
+
 **Disables Transparency Effects**
+
 **Disables the functions required for virtual machines(if you don't use them)**
+
 **Disables some non-critical windows services and sets some to open manually**
+
 **Changes DNS to cloudflare 1.1.1.1, to improve network speed**
+
 **Disables power throttling and enables the ultimate performance power plan (Desktops and always plugged in laptops only)**
+
 **Disables the windows telemetry service and similar services, to prevent microsoft from collecting data.**
+
 **Allows you to check what apps are installed(including bloatware) and remove the unecessary ones.**
 
 *Protip: If you want to apply all optimizations individually, go to the folder named 'Individual Tweaks'. You'll find what you're looking for there.*
